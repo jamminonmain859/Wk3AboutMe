@@ -1,32 +1,46 @@
-# HTML Project
+# Introduction to Programming Exercise - About Me
 
-This project is a basic HTML template that includes a main HTML document, CSS for styling, and JavaScript for interactivity.
+## Overview
+In this assignment, you will create a simple "About Me" page using some basic elements. **You must complete the tasks**, but if you want to practice any CSS that you've learned on your own time, feel free to do so.
 
-## Project Structure
+## Instructions
 
-```
-html-project
-├── css
-│   └── styles.css
-├── js
-│   └── scripts.js
-├── index.html
-└── README.md
-```
+### Prerequisites
 
-## Files Description
+Before you begin, ensure you have the following installed:
 
-- **index.html**: The main HTML document that includes the basic structure of an HTML page with links to the CSS and JavaScript files.
-- **css/styles.css**: Contains styles for the HTML document to enhance the visual presentation.
-- **js/scripts.js**: Contains JavaScript code to add interactivity to the HTML document.
+- **Git:** Version control system to clone and manage the repository.
+- **GitHub:** make sure you have an account to sync your repositories to.
+- **Code Editor:** Any code editor like [Visual Studio Code](https://code.visualstudio.com/)
 
-## Setup Instructions
+### Viewing the Project
 
-1. Clone the repository or download the project files.
-2. Open the `index.html` file in a web browser to view the project.
-3. Modify the `styles.css` file to change the appearance of the page.
-4. Add interactivity by editing the `scripts.js` file.
+To view the project locally, you can either open the project files in your code editor or open the HTML files in your browser.
 
-## Usage
+### Tasks
 
-This project serves as a starting point for building web applications. You can expand upon it by adding more HTML pages, styles, and scripts as needed.# Wk3AboutMe
+Inside `index.html`:
+- [ x] Replace the content of the title tag to `About Me`
+- [ x] Create a `<h1>` tag and place your name inside the element.
+- [ x] Create a `<hr>` tag underneath your `<h1>`
+- [ ] Create a `<h2>` tag with the content of `My Hobbies`.
+- [ ] Create an unordered list underneath your `<h2>`.
+- [ ] Inside your unordered list, create 3 `<li>` tags to list your hobbies.
+- [ ] After your unordered list, create a `<h2>` tag with the content of `My Goals for 2025`.
+- [ ] Create an ordered list underneath your `<h2>`.
+- [ ] Inside your ordered list, create 3 `<li>` tags to list your goals.
+
+
+
+### Tips
+- Remember to update the closing tags when changing an element.
+- Push a commit for each task completed. Include a meaningfull commit message.
+- Before the above, update the readme task list to track your progress. To do this, enter x between the brackets.
+- Get used to using your browser's developer tools now. For now, become familiar with: 
+    - Using inspector mode to inspect elements.
+- If you get stuck, please remember that you have various resources available to you.
+
+
+### Submitting Your Work
+
+After completing the assignment, make sure to commit your changes and push them back to your own repository and turn in the GitHub link in Open Class
